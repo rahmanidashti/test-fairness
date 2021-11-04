@@ -1,0 +1,4 @@
+Model:VAECF | Dataset:Gowalla-rand | Group:gowalla |  Epsilon=0.0 | K=10 | GRU_metric=f1
+Before optimization overall scores           : ndcg@10=1.0000 f1@10=0.3333 
+Before optimization group 1 (active) scores  : ndcg@10=1.0000 f1@10=0.3333 
+Before optimization group 2 (inactive) scores: ndcg@10=1.0000 f1@10=0.3333 
